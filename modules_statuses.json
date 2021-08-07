@@ -1,0 +1,6 @@
+{
+    "AdminModule": true,
+    "ConfigModule": true,
+    "CategoryModule": true,
+    "BlogModule": true
+}
